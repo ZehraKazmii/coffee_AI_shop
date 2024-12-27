@@ -1,6 +1,8 @@
-#Coffee_AI_shp
+
+# Coffee_AI_shp
 <p>Welcome to the Coffee Shop Customer Service Chatbot repository! This project encompasses the code, tools, and guidelines for developing an AI-driven chatbot aimed at enriching customer interactions within a coffee shop app. By harnessing the capabilities of Large Language Models (LLMs), Natural Language Processing (NLP), and RunPod's robust infrastructure, this chatbot seamlessly manages tasks like order-taking, addressing in-depth menu inquiries, and delivering tailored product recommendations—all integrated into a React Native mobile application.
 </p>
+
 ## Project Goals
 
 This project aims to develop an intelligent, agent-driven chatbot that can:
